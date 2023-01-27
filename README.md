@@ -5,14 +5,14 @@
 - Newman
 
 ## Scenario
-- Admin creates an agent and 2 random customers
+- Admin creates an agent and 2 random customers.
 - Deposite money from SYSTEM account to agent account.
-- Agent deposite money to customer account
-- Agent and customer check their current balance after the transaction
-- Customer withdraw money from the agent
-- Agent and customer check their balance and transaction statement
-- Customer-1 send money to Customer-2
-- Both customer check their current balance and transaction statement
+- Agent deposite money to customer account.
+- Agent and customer check their current balance after the transaction.
+- Customer withdraw money from the agent.
+- Agent and customer check their balance and transaction statement.
+- Customer-1 send money to Customer-2.
+- Both customer check their current balance and transaction statement.
 
 ## How to run this project
 - Clone this project
