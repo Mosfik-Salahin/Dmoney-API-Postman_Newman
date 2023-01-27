@@ -23,11 +23,16 @@
   - npm i
   - npm run report
   
-  ## Prerequisite
+ ## Prerequisite
  - Node.js have to be installed
   
-  ## API Documentation
+ ## API Documentation
  - https://documenter.getpostman.com/view/21613755/2s8ZDeTdyH
   
-  ## Test Case
+ ## Test Case
  - https://docs.google.com/spreadsheets/d/1tgHiIvqHppZw26jXYoxZD5zUKW42MHdy-dNHWZGdd1I/edit?usp=sharing
+ 
+## Output
+![Dmoney summery](https://user-images.githubusercontent.com/52536969/215102828-15b6d550-02c0-42ee-85dc-068a88aa6da2.png)
+![Dmoney requests](https://user-images.githubusercontent.com/52536969/215102974-ffd8bd64-5772-43eb-8b39-3ea00f59298a.png)
+![Dmoney requests_1](https://user-images.githubusercontent.com/52536969/215103016-ac95ebef-a06f-4a6d-b448-0bf27171e6b0.png)
