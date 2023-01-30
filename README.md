@@ -6,8 +6,8 @@
 
 ## Scenario
 - Admin creates an agent and 2 random customers.
-- Deposite money from SYSTEM account to agent account.
-- Agent deposite money to customer account.
+- Deposit money from SYSTEM account to agent account.
+- Agent deposit money to customer account.
 - Agent and customer check their current balance after the transaction.
 - Customer withdraw money from the agent.
 - Agent and customer check their balance and transaction statement.
